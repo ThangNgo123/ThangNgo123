@@ -9,4 +9,4 @@
 ### Contact: ###
 - Email: ngosythang123456@gmail.com
 - Linkedln: [ThangNgo123](https://www.linkedin.com/in/thangngo123/)
-- CV: [CV Thang Ngo](https://drive.google.com/file/d/13I15WOl8V7vtfCcIdsqslxmfMig6NwHI/view?usp=sharing)
+- CV: [CV Thang Ngo](https://drive.google.com/file/d/1OVXN2lfTdBzCqPQamMB1_qbtrEnudj9V/view?usp=sharing)
