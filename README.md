@@ -3,7 +3,7 @@
 - I'm a K17 student of FPT University
 - My major is software engineering
 - Member of FPTU JS Club - Japanese Software Engineer
-- I passed the JLPT N5 certificate, and my current level is JLPT N4
+- I passed the JLPT N4 certificate, and my current level is JLPT N3
 
 ### Contact: ###
 - Email: ngosythang123456@gmail.com
